@@ -4,4 +4,4 @@ Supervised machine learning to predict hospital readmittance in diabetic America
 
 Check out the data here- https://www.kaggle.com/brandao/diabetes
 
-![img]('Presentation_imgs/Supervised_learning_presentation-01.png')
+![img]('Presentation_imgs/Supervised learning presentation-01.png')
